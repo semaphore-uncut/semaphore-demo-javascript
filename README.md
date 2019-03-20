@@ -58,6 +58,6 @@ Steps described in client [README](src/client/README.md)
 
 ## License
 
-Copyright (c) 2019 Rendered Text
+Copyright (c) 2019 Rendered Text  
 
 Distributed under the MIT License. See the file [LICENSE.md](./LICENSE.md).
