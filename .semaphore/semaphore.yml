@@ -157,3 +157,7 @@ blocks:
             - cp ormconfig.ci.json ormconfig.json
             - npm run migrate:up
             - npm run test:e2e
+
+promotions:
+  - name: Staging
+    pipeline_file: stg-deploy.yml
